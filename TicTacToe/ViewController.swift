@@ -12,7 +12,7 @@
 import Cocoa
 
 class ViewController: NSViewController {
-    
+    //test
     // declare the image buttons for the gameboard
     @IBOutlet weak var cell1: NSButton!
     @IBOutlet weak var cell2: NSButton!
