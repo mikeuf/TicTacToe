@@ -697,11 +697,7 @@
                                 <toolbarItem implicitItemIdentifier="NSToolbarPrintItem" id="TL2-9R-y37"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="Igm-ql-4q1"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="000-C4-xeU"/>
-                                <toolbarItem implicitItemIdentifier="77F9C42E-25D0-4339-AB19-AD9B93B5028E" label="Options" paletteLabel="Options" tag="-1" image="NSAdvanced" id="Q2J-wt-Ebf">
-                                    <connections>
-                                        <segue destination="peO-ze-mDa" kind="sheet" id="eAq-i1-n50"/>
-                                    </connections>
-                                </toolbarItem>
+                                <toolbarItem implicitItemIdentifier="77F9C42E-25D0-4339-AB19-AD9B93B5028E" label="Options" paletteLabel="Options" tag="-1" image="NSAdvanced" id="Q2J-wt-Ebf"/>
                                 <toolbarItem implicitItemIdentifier="2E07B48B-1593-4581-8137-EC2805F3670C" label="Instructions" paletteLabel="Instructions" tag="-1" image="NSInfo" id="Ryj-oT-vAj">
                                     <connections>
                                         <segue destination="TS2-p1-SgW" kind="sheet" id="JpO-Vo-jWJ"/>
@@ -882,43 +878,7 @@
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="74" y="884"/>
-        </scene>
-        <!--Game Opions-->
-        <scene sceneID="1Id-tA-NcQ">
-            <objects>
-                <viewController id="peO-ze-mDa" customClass="GameOpions" customModule="TicTacToe" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" id="psa-Ym-LGd">
-                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                        <subviews>
-                            <box fixedFrame="YES" title="Options" translatesAutoresizingMaskIntoConstraints="NO" id="coV-Ue-Qhi">
-                                <rect key="frame" x="17" y="16" width="416" height="264"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <view key="contentView" id="BBx-ea-hUM">
-                                    <rect key="frame" x="2" y="2" width="412" height="247"/>
-                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                                    <subviews>
-                                        <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DbF-Jl-oZe">
-                                            <rect key="frame" x="166" y="53" width="81" height="32"/>
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                            <buttonCell key="cell" type="push" title="Button" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="A2u-uu-0BV">
-                                                <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                                <font key="font" metaFont="system"/>
-                                            </buttonCell>
-                                            <connections>
-                                                <action selector="resetBoard:" target="peO-ze-mDa" id="DJ7-Lq-aB5"/>
-                                            </connections>
-                                        </button>
-                                    </subviews>
-                                </view>
-                            </box>
-                        </subviews>
-                    </view>
-                </viewController>
-                <customObject id="kCE-t8-eU7" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="759" y="895"/>
+            <point key="canvasLocation" x="46" y="1029"/>
         </scene>
         <!--Window Controller-->
         <scene sceneID="RZK-Ob-T5e">
@@ -1002,7 +962,7 @@ Use the "Reset Game" button at the bottom-right to clear the board at any time.<
                 </viewController>
                 <customObject id="SoZ-MC-Q9B" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1307" y="895"/>
+            <point key="canvasLocation" x="760" y="913"/>
         </scene>
     </scenes>
     <resources>
