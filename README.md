@@ -18,7 +18,7 @@ Once you've downloaded the executable binary ("TicTacToe") just double click it.
 This is a very simple, two-player, Tic-Tac-Toe game (Figure 1). As you click on the spaces, it will alternate between marking them as "X" or "O." At any time, you can click the **Reset Game** or **Instructions** buttons. To quit the game, click **File > Quick TicTacToe.**<br />
 
 **Figure 1 - Game in progress**<br />
-![Game in progress](https://github.com/mikeuf/tic-tac-toe-cocoa/blob/master/README-images/1-game-in-progress.jpg "Game in progress")
+![Game in progress](https://github.com/mikeuf/tic-tac-toe-cocoa/blob/master/readme-images/1-game-in-progress.png "Game in progress")
 <br />
 <br />
 
