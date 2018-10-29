@@ -4,7 +4,7 @@ A simple "Tic-Tac-Toe" game created with Swift and Cocoa. It runs on Apple MacOS
 ## Table of Contents
 **[Downloading the Executable Binary](#downloading-the-executable-binary)**  
 **[Running the Program](#running-the-program)**  
-**[Gameplay](#gameplay)**  
+**[Gameplay](#gameplay)**<br /> 
 
 ## Downloading the Executable Binary
 An executable binary can be downloaded from here:<br />
@@ -15,7 +15,7 @@ Since this program is from an "unidentified developer," MacOS will probably requ
 See this Apple article for more details:<br />
 https://support.apple.com/kb/PH25088<br />
 
-You may also receive a message from your browser stating that the program is "not commonly downloaded and may be dangerous," or something to this effect. Your browser should give you the option to either discard or keep the file. 
+You may also receive a message from your browser stating that the program is "not commonly downloaded and may be dangerous," or something to this effect. Your browser should give you the option to either discard or keep the file.<br />
 
 ## Running the Program
 Once you've downloaded the executable binary ("TicTacToe") just double click it. You can also copy it to your Applications folder and run it from Launchpad.<br />
