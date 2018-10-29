@@ -22,5 +22,15 @@ This is a very simple, two-player, Tic-Tac-Toe game (Figure 1). As you click on 
 <br />
 <br />
 
+**Figure 2 - Player "X" wins**<br />
+![Game Over](https://github.com/mikeuf/tic-tac-toe-cocoa/blob/master/readme-images/2-game-won.png "Game over")
+<br />
+<br />
+
+**Figure 3 - Instructions modal sheet**<br />
+![Instructions](https://github.com/mikeuf/tic-tac-toe-cocoa/blob/master/readme-images/3-instructions.png "Instructions")
+<br />
+<br />
+
 
 
