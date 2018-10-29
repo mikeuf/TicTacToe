@@ -10,7 +10,7 @@ A simple "Tic-Tac-Toe" game created with Swift and Cocoa. It runs on Apple MacOS
 An executable binary can be downloaded from here:<br />
 https://github.com/mikeuf/tic-tac-toe-cocoa/raw/master/TicTacToe.zip<br />
 
-Since this program is from an "unidentified developer," MacOS will probably require you to go into Settings to give permission to allow the execution of the program.<br />
+Since this program is from an "unidentified developer" (me), MacOS will probably require you to go into Settings to give permission to allow the execution of the program.<br />
 
 See this Apple article for more details:<br />
 https://support.apple.com/kb/PH25088<br />
